@@ -1,0 +1,8 @@
+# first line has the number of holes
+8
+# the rest of the lines specify the mirror positions
+# the final one at {8,7} has a life of 10 hits or deflections
+3 2
+3 7
+6 4
+8 7 10

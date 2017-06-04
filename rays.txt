@@ -1,0 +1,22 @@
+# one test per line
+# this is a ray travelling down column 7 starting at {1,7}
+C7+
+# a ray travelling down column 5, starting at {1,5}
+C5+
+# or travelling right to left along row 5 starting at {5,8}
+R5-
+# or travelling right to left along row 5 starting at {5,8}
+C3+
+R8+
+R8+
+R8+
+R8+
+R8+
+R8+
+R8+
+R8+
+R8+
+R8+
+R8+
+C7+
+R1+
